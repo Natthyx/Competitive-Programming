@@ -8,5 +8,6 @@ class Solution:
         count = Counter(arr)
         
         for key,value in count.items():
-            if value == max(count.values()):
+            if value == len(edges):
                 return key
+        return -1
