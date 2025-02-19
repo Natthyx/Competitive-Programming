@@ -1,15 +1,20 @@
 class Solution:
     def maxScore(self, s: str) -> int:
-        s = list(s)
-        zeros_arr = []
-        mx = 0
-        ones_arr = s.copy()
-        
-        for i in range(len(s)-1):
-            zeros_arr.append(s[i])
-            ones_arr.remove(s[i])
-            mx = max(mx, (zeros_arr.count("0")+ones_arr.count("1")))
+        prefix = [0]*(len(s))
+        pre = 0
 
-        
+
+        for r in range(len(s)):
+            pre += int(s[r])
+            prefix[r] = pre
+
+        mx = 0
+        for i in range(len(prefix)-1):
+            zeros = i - prefix[i]+1
+            one = prefix[-1]- prefix[i]
+
+            mx = max(mx,(zeros+one))
+
         return mx
-            
+
+
