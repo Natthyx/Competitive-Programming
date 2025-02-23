@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Natthyx/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Natthyx/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1184-car-pooling](https://github.com/Natthyx/Competitive-Programming/tree/master/1184-car-pooling) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Natthyx/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Natthyx/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Natthyx/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1184-car-pooling](https://github.com/Natthyx/Competitive-Programming/tree/master/1184-car-pooling) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Natthyx/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Natthyx/Competitive-Programming/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Natthyx/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Natthyx/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Natthyx/Competitive-Programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Sliding Window
 |  |
@@ -126,4 +129,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Natthyx/Competitive-Programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 <!---LeetCode Topics End-->
