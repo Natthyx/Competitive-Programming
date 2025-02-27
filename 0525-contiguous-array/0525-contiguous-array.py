@@ -1,14 +1,23 @@
 class Solution:
     def findMaxLength(self, nums: List[int]) -> int:
-        hashmap = {0: -1}
-        maxlen = 0
+        prefix = []
         count = 0
+        prefix_dict = defaultdict(int)
+        
+        ans = 0
 
         for i in range(len(nums)):
-            count = count + 1 if nums[i] == 1 else count - 1
-            if count in hashmap:
-                maxlen = max(maxlen, i - hashmap[count])
+            if nums[i] == 0:
+                count-=1
             else:
-                hashmap[count] = i
+                count+=1
+            prefix.append(count)
 
-        return maxlen
+        for i in range(len(prefix)-1,-1,-1):
+            prefix_dict[prefix[i]] = i
+        prefix_dict[0] = -1
+        
+        for r in range(len(nums)):
+            ans = max(ans, r - prefix_dict[prefix[r]])
+
+        return ans
