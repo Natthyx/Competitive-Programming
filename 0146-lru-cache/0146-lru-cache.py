@@ -27,9 +27,9 @@ class LRUCache:
             return -1
         else:
             node = self.cache[key]
-            if node.next and node.prev:
+            if node != self.head and node != self.tail:
                 self.ptrmoving(node)
-            elif not node.next and node.prev:
+            elif node == self.tail and node != self.head:
                 self.tail = self.tail.prev
 
                 node.next = self.head
