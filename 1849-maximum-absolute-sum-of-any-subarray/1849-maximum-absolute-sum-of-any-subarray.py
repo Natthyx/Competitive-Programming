@@ -1,25 +1,15 @@
 class Solution:
     def maxAbsoluteSum(self, nums: List[int]) -> int:
-        n = len(nums)
-        prefixsm = nums[0]
-        mx = nums[0]
-        prefixm = nums[0]
-        mn = nums[0]
+        mn , mx = 0 , 0
+        sm = 0
 
-        for i in range(1,n):
-            prefixsm = max(prefixsm+nums[i], nums[i])
-            prefixm = min(prefixm+nums[i], nums[i])
-            mn = min(mn,prefixm)
-            mx = max(mx,prefixsm)
+        for i in range(len(nums)):
+            sm += nums[i]
+            if sm > mx:
+                mx = sm
+            if sm < mn:
+                mn = sm
 
 
-        return max(mx,abs(mn))
-
-
-
-
-
-
-            
-            
+        return abs(mx-mn)
         
