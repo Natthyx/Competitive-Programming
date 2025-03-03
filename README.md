@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0525-contiguous-array](https://github.com/Natthyx/Competitive-Programming/tree/master/0525-contiguous-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Natthyx/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
+| [1018-largest-perimeter-triangle](https://github.com/Natthyx/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1184-car-pooling](https://github.com/Natthyx/Competitive-Programming/tree/master/1184-car-pooling) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Natthyx/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
@@ -28,12 +29,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/Natthyx/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Natthyx/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Natthyx/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Sorting
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/Natthyx/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1184-car-pooling](https://github.com/Natthyx/Competitive-Programming/tree/master/1184-car-pooling) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Natthyx/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Natthyx/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -61,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Natthyx/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/Natthyx/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Natthyx/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Natthyx/Competitive-Programming/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 ## Linked List
