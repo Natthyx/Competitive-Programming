@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/Natthyx/Competitive-Programming/tree/master/0134-gas-station) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0525-contiguous-array](https://github.com/Natthyx/Competitive-Programming/tree/master/0525-contiguous-array) |
+| [0605-can-place-flowers](https://github.com/Natthyx/Competitive-Programming/tree/master/0605-can-place-flowers) |
 | [0966-binary-subarrays-with-sum](https://github.com/Natthyx/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/Natthyx/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Natthyx/Competitive-Programming/tree/master/1095-two-city-scheduling) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0055-jump-game](https://github.com/Natthyx/Competitive-Programming/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Natthyx/Competitive-Programming/tree/master/0134-gas-station) |
+| [0605-can-place-flowers](https://github.com/Natthyx/Competitive-Programming/tree/master/0605-can-place-flowers) |
 | [1018-largest-perimeter-triangle](https://github.com/Natthyx/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Natthyx/Competitive-Programming/tree/master/1095-two-city-scheduling) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Natthyx/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
