@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Natthyx/Competitive-Programming/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Natthyx/Competitive-Programming/tree/master/0071-simplify-path) |
 | [0874-backspace-string-compare](https://github.com/Natthyx/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Natthyx/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Natthyx/Competitive-Programming/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Natthyx/Competitive-Programming/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Natthyx/Competitive-Programming/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/Natthyx/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Natthyx/Competitive-Programming/tree/master/0496-next-greater-element-i) |
