@@ -3,11 +3,15 @@ class Solution:
         stack = []
         change = 0
 
-        for i in range(len(logs)):
-            if logs[i] != "../" and logs[i] != "./":
+        for i in range(len(logs)): 
+            if logs[i] == "../":
+                if stack:
+                    stack.pop()
+                    
+            elif logs[i] == "./":
+                continue
+            else:
                 stack.append(1)
-            elif stack and logs[i] == "../":
-                stack.pop()
             
 
         return len(stack)
