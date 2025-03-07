@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1095-two-city-scheduling](https://github.com/Natthyx/Competitive-Programming/tree/master/1095-two-city-scheduling) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1184-car-pooling](https://github.com/Natthyx/Competitive-Programming/tree/master/1184-car-pooling) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Natthyx/Competitive-Programming/tree/master/1464-reduce-array-size-to-the-half) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Natthyx/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/Natthyx/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Natthyx/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/Natthyx/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Natthyx/Competitive-Programming/tree/master/1095-two-city-scheduling) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Natthyx/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Natthyx/Competitive-Programming/tree/master/1464-reduce-array-size-to-the-half) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Natthyx/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Natthyx/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3055-maximum-odd-binary-number](https://github.com/Natthyx/Competitive-Programming/tree/master/3055-maximum-odd-binary-number) |
@@ -54,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/Natthyx/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Natthyx/Competitive-Programming/tree/master/1095-two-city-scheduling) |
 | [1184-car-pooling](https://github.com/Natthyx/Competitive-Programming/tree/master/1184-car-pooling) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Natthyx/Competitive-Programming/tree/master/1464-reduce-array-size-to-the-half) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Natthyx/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Natthyx/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Prefix Sum
@@ -158,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/Natthyx/Competitive-Programming/tree/master/0525-contiguous-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Natthyx/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Natthyx/Competitive-Programming/tree/master/1464-reduce-array-size-to-the-half) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Natthyx/Competitive-Programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Sliding Window
 |  |
@@ -167,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/Natthyx/Competitive-Programming/tree/master/1184-car-pooling) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Natthyx/Competitive-Programming/tree/master/1464-reduce-array-size-to-the-half) |
 ## Simulation
 |  |
 | ------- |
