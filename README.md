@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Natthyx/Competitive-Programming/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/Natthyx/Competitive-Programming/tree/master/0225-implement-stack-using-queues) |
 | [0838-design-linked-list](https://github.com/Natthyx/Competitive-Programming/tree/master/0838-design-linked-list) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Natthyx/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/Natthyx/Competitive-Programming/tree/master/1582-design-browser-history) |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Natthyx/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Natthyx/Competitive-Programming/tree/master/0071-simplify-path) |
+| [0225-implement-stack-using-queues](https://github.com/Natthyx/Competitive-Programming/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Natthyx/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Natthyx/Competitive-Programming/tree/master/0456-132-pattern) |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Natthyx/Competitive-Programming/tree/master/0225-implement-stack-using-queues) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Ordered Set
 |  |
