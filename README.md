@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Natthyx/Competitive-Programming/tree/master/0002-add-two-numbers) |
+| [0172-factorial-trailing-zeroes](https://github.com/Natthyx/Competitive-Programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0445-add-two-numbers-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Natthyx/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
