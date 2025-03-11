@@ -1,13 +1,19 @@
 class Solution:
+    @cache
+    def triangle(self, row, col):
+
+        if col == 0:
+            return 1
+        if row == col:
+            return 1
+        return self.triangle(row-1,col-1)+self.triangle(row-1,col)
+
+
     def getRow(self, rowIndex: int) -> List[int]:
-        if rowIndex == 0:
-            return [1]
-
+        
         arr = []
-        prev = self.getRow(rowIndex-1)
-        for i in range(len(prev)-1):
-            arr.append(prev[i]+prev[i+1])
-
-        return [1]+arr+[1]
+        for col in range(0,rowIndex+1):
+            arr.append(self.triangle(rowIndex,col))
+        return arr
         
         
