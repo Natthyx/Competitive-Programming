@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Natthyx/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Natthyx/Competitive-Programming/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Natthyx/Competitive-Programming/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Natthyx/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Natthyx/Competitive-Programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/Natthyx/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Natthyx/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Natthyx/Competitive-Programming/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Natthyx/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Natthyx/Competitive-Programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0342-power-of-four](https://github.com/Natthyx/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0445-add-two-numbers-ii) |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Natthyx/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Natthyx/Competitive-Programming/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Natthyx/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Natthyx/Competitive-Programming/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Natthyx/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0445-add-two-numbers-ii) |
