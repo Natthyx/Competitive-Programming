@@ -9,9 +9,10 @@ class Solution:
             if tokens[i] not in ops:
                 stack.append(int(tokens[i]))
             else:
-                if stack and len(stack) > 1:
+                if stack:
                     b = stack.pop()
-                    a = stack.pop()
+                    if stack:
+                        a = stack.pop()
 
                 if tokens[i] == "+":
                     ans = a+b
