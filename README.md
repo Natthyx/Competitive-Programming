@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Natthyx/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Natthyx/Competitive-Programming/tree/master/0071-simplify-path) |
 | [0874-backspace-string-compare](https://github.com/Natthyx/Competitive-Programming/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/Natthyx/Competitive-Programming/tree/master/0886-score-of-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Natthyx/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Natthyx/Competitive-Programming/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/Natthyx/Competitive-Programming/tree/master/1720-crawler-log-folder) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Natthyx/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Natthyx/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Natthyx/Competitive-Programming/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/Natthyx/Competitive-Programming/tree/master/0886-score-of-parentheses) |
 | [1582-design-browser-history](https://github.com/Natthyx/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/Natthyx/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Natthyx/Competitive-Programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
