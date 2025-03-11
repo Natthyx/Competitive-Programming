@@ -1,6 +1,7 @@
 class Solution:
     def scoreOfParentheses(self, s: str) -> int:
         stack = []
+        count = 0
 
         for i in range(len(s)):
             if s[i] =="(":
@@ -11,10 +12,11 @@ class Solution:
                     stack.pop()
                     stack.append(1)
 
-                else:
+                elif stack and stack[-1] != "(":
                     x = 0
                     while stack and stack[-1] != "(":
                         x+=stack.pop()
+
                     stack.pop()
                     stack.append(x*2)
 
