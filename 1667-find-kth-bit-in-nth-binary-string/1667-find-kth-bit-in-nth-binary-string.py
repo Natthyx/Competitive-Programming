@@ -1,20 +1,19 @@
 class Solution:        
+    def string(self,n):
+        if n == 1:
+            return "0"
+
+        prev = self.string(n-1)
+        reverse = ["1" if i == "0" else "0" for i in prev]
+        ans = prev + "1" + "".join(reverse[::-1])
+        return ans
+
 
     def findKthBit(self, n: int, k: int) -> str:
-        s = "0"
-        
-       
-        for i in range(n-1):
-            new_s = s + "1"
-            s = list(s)
-            for i in range(len(s)):
-                s[i] = "1" if s[i] == "0" else "0"
-            s = s[::-1]
+        return self.string(n)[k-1]
 
-            new_s += "".join(s)
-            s = new_s
-            
-        return s[k-1]
+        
+        
 
 
 
