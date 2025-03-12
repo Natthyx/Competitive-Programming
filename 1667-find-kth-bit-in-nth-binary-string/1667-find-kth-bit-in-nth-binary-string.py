@@ -1,22 +1,16 @@
 class Solution:        
-    def string(self,n):
+    def findKthBit(self, n: int, k: int) -> str:
         if n == 1:
             return "0"
 
-        prev = self.string(n-1)
-        reverse = ["1" if i == "0" else "0" for i in prev]
-        ans = prev + "1" + "".join(reverse[::-1])
-        return ans
-
-
-    def findKthBit(self, n: int, k: int) -> str:
-        return self.string(n)[k-1]
-
+        l = (2**n)-1
+        mid = (l//2)+1
+        if k == mid:
+            return "1"
         
-        
+        if k < mid:
+            return self.findKthBit(n-1,k)
+        else:
+            k = l-k+1
+            return "0" if self.findKthBit(n-1,k) == "1" else "1"
 
-
-
-
-        
-        
