@@ -6,17 +6,13 @@ class Solution:
             if s[i] == "[":
                 j = i-1
                 a = ""
-                if s[j] not in num_set:
-                    a = "1"
-                else:
-                    while j > -1 and s[j] in num_set:
-                        a = s[j] + a
-                        j-=1
-
-                a = int(a)  
+                while j > -1 and s[j] in num_set:
+                    a = s[j] + a
+                    j-=1
+                a = int(a) if a else 1 
                 ch = ''
                 while stack and stack[-1] != "]":
-                    ch +=stack.pop()
+                    ch += stack.pop()
                 stack.pop()
                 stack.append(a*ch)
 
