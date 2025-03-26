@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/Natthyx/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [2465-shifting-letters-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [3055-maximum-odd-binary-number](https://github.com/Natthyx/Competitive-Programming/tree/master/3055-maximum-odd-binary-number) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Natthyx/Competitive-Programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Math
 |  |
 | ------- |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0231-power-of-two](https://github.com/Natthyx/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Natthyx/Competitive-Programming/tree/master/0342-power-of-four) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Natthyx/Competitive-Programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
 |  |
 | ------- |
@@ -344,4 +346,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0784-insert-into-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Natthyx/Competitive-Programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
