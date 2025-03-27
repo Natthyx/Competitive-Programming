@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Natthyx/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0859-design-circular-deque](https://github.com/Natthyx/Competitive-Programming/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/Natthyx/Competitive-Programming/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/Natthyx/Competitive-Programming/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/Natthyx/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/Natthyx/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Natthyx/Competitive-Programming/tree/master/1095-two-city-scheduling) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Natthyx/Competitive-Programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0456-132-pattern](https://github.com/Natthyx/Competitive-Programming/tree/master/0456-132-pattern) |
+| [0907-koko-eating-bananas](https://github.com/Natthyx/Competitive-Programming/tree/master/0907-koko-eating-bananas) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Natthyx/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Greedy
 |  |
