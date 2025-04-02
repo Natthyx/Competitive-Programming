@@ -1,12 +1,16 @@
 class Solution:
     def findDuplicates(self, nums: List[int]) -> List[int]:
-        duplicate = defaultdict(int)
         res = []
-        for num in nums:
-            duplicate[num]+=1
-        
-        for key,value in duplicate.items():
-            if value == 2:
-                res.append(key)
-                
+        i = 0
+        while i < len(nums):
+            ind = nums[i] - 1
+            if nums[ind] != nums[i]:
+                nums[ind],nums[i] = nums[i], nums[ind]
+            else:
+                i+=1
+
+        for i in range(len(nums)):
+            if nums[i]-1 != i:
+                res.append(nums[i])
+
         return res
