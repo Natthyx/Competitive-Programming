@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/Natthyx/Competitive-Programming/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Natthyx/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Natthyx/Competitive-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Natthyx/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Natthyx/Competitive-Programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/Natthyx/Competitive-Programming/tree/master/0456-132-pattern) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Natthyx/Competitive-Programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Natthyx/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Natthyx/Competitive-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/Natthyx/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0907-koko-eating-bananas](https://github.com/Natthyx/Competitive-Programming/tree/master/0907-koko-eating-bananas) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Natthyx/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Natthyx/Competitive-Programming/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0268-missing-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Natthyx/Competitive-Programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Natthyx/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
@@ -125,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Natthyx/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Natthyx/Competitive-Programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Natthyx/Competitive-Programming/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Natthyx/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -221,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Natthyx/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Natthyx/Competitive-Programming/tree/master/0146-lru-cache) |
+| [0268-missing-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Natthyx/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Natthyx/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Natthyx/Competitive-Programming/tree/master/0525-contiguous-array) |
@@ -326,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Natthyx/Competitive-Programming/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Natthyx/Competitive-Programming/tree/master/0342-power-of-four) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Natthyx/Competitive-Programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
