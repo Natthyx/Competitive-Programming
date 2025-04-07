@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Natthyx/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Natthyx/Competitive-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Natthyx/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Natthyx/Competitive-Programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Natthyx/Competitive-Programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0148-sort-list](https://github.com/Natthyx/Competitive-Programming/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Natthyx/Competitive-Programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/Natthyx/Competitive-Programming/tree/master/0645-set-mismatch) |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/Natthyx/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Natthyx/Competitive-Programming/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [1873-longest-nice-substring](https://github.com/Natthyx/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 ## Dynamic Programming
 |  |
@@ -233,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Natthyx/Competitive-Programming/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Natthyx/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Natthyx/Competitive-Programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Natthyx/Competitive-Programming/tree/master/0496-next-greater-element-i) |
@@ -252,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [1184-car-pooling](https://github.com/Natthyx/Competitive-Programming/tree/master/1184-car-pooling) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Natthyx/Competitive-Programming/tree/master/1464-reduce-array-size-to-the-half) |
 ## Simulation
@@ -317,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Natthyx/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack
@@ -401,4 +407,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Natthyx/Competitive-Programming/tree/master/0148-sort-list) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
