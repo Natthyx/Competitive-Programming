@@ -308,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Natthyx/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Natthyx/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0801-is-graph-bipartite](https://github.com/Natthyx/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Natthyx/Competitive-Programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Natthyx/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
@@ -393,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/Natthyx/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Natthyx/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
@@ -420,9 +422,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/Natthyx/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Natthyx/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/Natthyx/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Natthyx/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
