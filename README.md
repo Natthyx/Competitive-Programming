@@ -311,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/Natthyx/Competitive-Programming/tree/master/0463-island-perimeter) |
 | [0801-is-graph-bipartite](https://github.com/Natthyx/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/Natthyx/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Natthyx/Competitive-Programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Natthyx/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/Natthyx/Competitive-Programming/tree/master/0463-island-perimeter) |
 | [0801-is-graph-bipartite](https://github.com/Natthyx/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/Natthyx/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Natthyx/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
@@ -432,5 +434,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Natthyx/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/Natthyx/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Natthyx/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
