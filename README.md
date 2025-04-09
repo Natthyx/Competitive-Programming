@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/Natthyx/Competitive-Programming/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Natthyx/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Natthyx/Competitive-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/Natthyx/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/Natthyx/Competitive-Programming/tree/master/0399-evaluate-division) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/Natthyx/Competitive-Programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Natthyx/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Natthyx/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Natthyx/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0399-evaluate-division](https://github.com/Natthyx/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Natthyx/Competitive-Programming/tree/master/0463-island-perimeter) |
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Natthyx/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Natthyx/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Natthyx/Competitive-Programming/tree/master/0463-island-perimeter) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 ## Doubly-Linked List
@@ -401,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Natthyx/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Natthyx/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Natthyx/Competitive-Programming/tree/master/0463-island-perimeter) |
 | [0801-is-graph-bipartite](https://github.com/Natthyx/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
@@ -432,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Natthyx/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Natthyx/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0801-is-graph-bipartite](https://github.com/Natthyx/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Natthyx/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
