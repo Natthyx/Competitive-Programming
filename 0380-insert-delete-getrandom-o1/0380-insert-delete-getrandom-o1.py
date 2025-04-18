@@ -1,33 +1,39 @@
-import random
 class RandomizedSet:
 
     def __init__(self):
-        self.lst = []
-        self.currentSet = set()
-        
+        self.randomizedset = defaultdict(int)
+        self.arr = []
+         
 
     def insert(self, val: int) -> bool:
-        if val in self.currentSet:
+        if val not in self.randomizedset:
+            self.randomizedset[val] = len(self.arr)
+            self.arr.append(val)
+            return True
+        else:
             return False
         
-        self.lst.append(val)
-        self.currentSet.add(val)
-        return True
         
 
     def remove(self, val: int) -> bool:
-        if val not in self.currentSet:
+        if val in self.randomizedset:
+            last = self.arr[-1]
+            ind = self.randomizedset[val]
+            self.arr[ind] = last
+            self.arr.pop()
+
+            self.randomizedset[last] = ind
+            del self.randomizedset[val]
+            return True
+        else:
             return False
         
-        self.currentSet.remove(val)
-        index = self.lst.index(val)
-        self.lst[index], self.lst[-1] = self.lst[-1] , self.lst[index]
-        self.lst.pop()
-        return True
         
 
     def getRandom(self) -> int:
-        return random.choice(self.lst)
+        return random.choice(self.arr)
+
+        
         
 
 
