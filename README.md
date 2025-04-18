@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Natthyx/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Natthyx/Competitive-Programming/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Natthyx/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Natthyx/Competitive-Programming/tree/master/0079-word-search) |
 | [0119-pascals-triangle-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/Natthyx/Competitive-Programming/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Natthyx/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Natthyx/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Natthyx/Competitive-Programming/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Natthyx/Competitive-Programming/tree/master/0079-word-search) |
 | [0306-additive-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0306-additive-number) |
 | [0394-decode-string](https://github.com/Natthyx/Competitive-Programming/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Natthyx/Competitive-Programming/tree/master/0399-evaluate-division) |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Natthyx/Competitive-Programming/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Natthyx/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0101-symmetric-tree) |
@@ -346,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Natthyx/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Natthyx/Competitive-Programming/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Natthyx/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Natthyx/Competitive-Programming/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Natthyx/Competitive-Programming/tree/master/0542-01-matrix) |
@@ -462,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Natthyx/Competitive-Programming/tree/master/0079-word-search) |
 | [0306-additive-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0306-additive-number) |
 | [0813-all-paths-from-source-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Natthyx/Competitive-Programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
