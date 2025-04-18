@@ -331,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0690-employee-importance](https://github.com/Natthyx/Competitive-Programming/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Natthyx/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Natthyx/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Natthyx/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Natthyx/Competitive-Programming/tree/master/0922-possible-bipartition) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Natthyx/Competitive-Programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0690-employee-importance](https://github.com/Natthyx/Competitive-Programming/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Natthyx/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Natthyx/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Natthyx/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Natthyx/Competitive-Programming/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/Natthyx/Competitive-Programming/tree/master/1036-rotting-oranges) |
@@ -453,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0306-additive-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0306-additive-number) |
+| [0813-all-paths-from-source-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Natthyx/Competitive-Programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Merge Sort
 |  |
@@ -482,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Natthyx/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Natthyx/Competitive-Programming/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Natthyx/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Natthyx/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Natthyx/Competitive-Programming/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/Natthyx/Competitive-Programming/tree/master/1039-find-the-town-judge) |
