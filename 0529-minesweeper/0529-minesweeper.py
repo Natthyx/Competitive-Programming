@@ -33,8 +33,8 @@ class Solution:
             else:
                 board[row][col] = "B"
                 for nr , nc in neighbor:
-                    queue.append((nr,nc))
                     visited[nr][nc]=True
+                    queue.append((nr,nc))
         
         return board
                 
