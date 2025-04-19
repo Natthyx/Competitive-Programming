@@ -1,8 +1,8 @@
 class UndergroundSystem:
 
     def __init__(self):
-        self.checkedIn = {} #id -> (stationName,time)
-        self.total = {} #(start,end) -> [total,count of element]
+        self.checkedIn = defaultdict(tuple) #id -> (stationName,time)
+        self.total = defaultdict(lambda: [0,0]) #(start,end) -> [total,count of element]
         
 
     def checkIn(self, id: int, stationName: str, t: int) -> None:
@@ -13,9 +13,6 @@ class UndergroundSystem:
         start , time = self.checkedIn[id]
         r = (start,endStation)
 
-        if r not in self.total:
-            self.total[r] = [0,0]
-        
         self.total[r][0] += t - time
         self.total[r][1] += 1
         
