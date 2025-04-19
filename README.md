@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Natthyx/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Natthyx/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Natthyx/Competitive-Programming/tree/master/0525-contiguous-array) |
+| [0529-minesweeper](https://github.com/Natthyx/Competitive-Programming/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Natthyx/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Natthyx/Competitive-Programming/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Natthyx/Competitive-Programming/tree/master/0645-set-mismatch) |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0399-evaluate-division](https://github.com/Natthyx/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Natthyx/Competitive-Programming/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/Natthyx/Competitive-Programming/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/Natthyx/Competitive-Programming/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/Natthyx/Competitive-Programming/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Natthyx/Competitive-Programming/tree/master/0695-max-area-of-island) |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Natthyx/Competitive-Programming/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Natthyx/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Natthyx/Competitive-Programming/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/Natthyx/Competitive-Programming/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Natthyx/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Natthyx/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Natthyx/Competitive-Programming/tree/master/0733-flood-fill) |
@@ -447,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Natthyx/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Natthyx/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Natthyx/Competitive-Programming/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/Natthyx/Competitive-Programming/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Natthyx/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Natthyx/Competitive-Programming/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/Natthyx/Competitive-Programming/tree/master/0690-employee-importance) |
