@@ -4,7 +4,7 @@ class Solution:
         word_char = Counter(word)
 
         for ch in word_char:
-            if word_char[ch] > board_char.get(ch,0):
+            if word_char[ch] > board_char[ch]:
                 return False
         
         if board_char[word[0]] > board_char[word[-1]]:
