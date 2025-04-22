@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1341-split-a-string-in-balanced-strings](https://github.com/Natthyx/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Natthyx/Competitive-Programming/tree/master/1464-reduce-array-size-to-the-half) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Natthyx/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Natthyx/Competitive-Programming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Natthyx/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3055-maximum-odd-binary-number](https://github.com/Natthyx/Competitive-Programming/tree/master/3055-maximum-odd-binary-number) |
 ## Sorting
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Natthyx/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/Natthyx/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [1873-longest-nice-substring](https://github.com/Natthyx/Competitive-Programming/tree/master/1873-longest-nice-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Natthyx/Competitive-Programming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [3055-maximum-odd-binary-number](https://github.com/Natthyx/Competitive-Programming/tree/master/3055-maximum-odd-binary-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Natthyx/Competitive-Programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -335,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-design-browser-history](https://github.com/Natthyx/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/Natthyx/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Natthyx/Competitive-Programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Natthyx/Competitive-Programming/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -500,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Natthyx/Competitive-Programming/tree/master/0079-word-search) |
 | [0306-additive-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0306-additive-number) |
 | [0813-all-paths-from-source-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Natthyx/Competitive-Programming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Natthyx/Competitive-Programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Merge Sort
 |  |
