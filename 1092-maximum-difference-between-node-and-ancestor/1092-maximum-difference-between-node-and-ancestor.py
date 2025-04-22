@@ -6,37 +6,27 @@
 #         self.right = right
 class Solution:
     def maxAncestorDiff(self, root: Optional[TreeNode]) -> int:
-
-        stack = deque([root])
-        # print(root.left,root.right,root.val)
+        queue = deque([root])
         mx = 0
 
-        while stack:
-            ln = len(stack)
-
+        while queue:
+            ln = len(queue)
             for _ in range(ln):
-                node = stack.popleft()
+                node = queue.popleft()
                 if node.left:
-                    stack.append(node.left)
+                    queue.append(node.left)
                 if node.right:
-                    stack.append(node.right)
+                    queue.append(node.right)
                 
-                # print(stack)
+                queue2 = deque([node])
                 
-                stack2 = deque([node])
-                while stack2:
-                    ln = len(stack2)
-
+                while queue2:
+                    ln = len(queue2)
                     for _ in range(ln):
-                        node2 = stack2.popleft()
+                        node2 = queue2.popleft()
                         if node2.left:
-                            stack2.append(node2.left) 
+                            queue2.append(node2.left) 
                         if node2.right:
-                            stack2.append(node2.right)
-                        # print(stack2)
-                        # print(node.val,node2.val)
+                            queue2.append(node2.right)
                         mx = max(mx, abs(node.val - node2.val))
-        # print(mx)
-        return mx
-
-        
+        return mx      
