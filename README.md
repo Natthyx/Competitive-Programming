@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Natthyx/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Natthyx/Competitive-Programming/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Natthyx/Competitive-Programming/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/Natthyx/Competitive-Programming/tree/master/0093-restore-ip-addresses) |
 | [0306-additive-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0306-additive-number) |
 | [0394-decode-string](https://github.com/Natthyx/Competitive-Programming/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Natthyx/Competitive-Programming/tree/master/0399-evaluate-division) |
@@ -505,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/Natthyx/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Natthyx/Competitive-Programming/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/Natthyx/Competitive-Programming/tree/master/0093-restore-ip-addresses) |
 | [0306-additive-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0306-additive-number) |
 | [0813-all-paths-from-source-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Natthyx/Competitive-Programming/tree/master/2456-construct-smallest-number-from-di-string) |
