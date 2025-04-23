@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1168-duplicate-zeros](https://github.com/Natthyx/Competitive-Programming/tree/master/1168-duplicate-zeros) |
 | [1184-car-pooling](https://github.com/Natthyx/Competitive-Programming/tree/master/1184-car-pooling) |
+| [1272-invalid-transactions](https://github.com/Natthyx/Competitive-Programming/tree/master/1272-invalid-transactions) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Natthyx/Competitive-Programming/tree/master/1464-reduce-array-size-to-the-half) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Natthyx/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/Natthyx/Competitive-Programming/tree/master/1582-design-browser-history) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/Natthyx/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Natthyx/Competitive-Programming/tree/master/1095-two-city-scheduling) |
 | [1184-car-pooling](https://github.com/Natthyx/Competitive-Programming/tree/master/1184-car-pooling) |
+| [1272-invalid-transactions](https://github.com/Natthyx/Competitive-Programming/tree/master/1272-invalid-transactions) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Natthyx/Competitive-Programming/tree/master/1464-reduce-array-size-to-the-half) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Natthyx/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Natthyx/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Natthyx/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0874-backspace-string-compare](https://github.com/Natthyx/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Natthyx/Competitive-Programming/tree/master/0886-score-of-parentheses) |
+| [1272-invalid-transactions](https://github.com/Natthyx/Competitive-Programming/tree/master/1272-invalid-transactions) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Natthyx/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1512-design-underground-system](https://github.com/Natthyx/Competitive-Programming/tree/master/1512-design-underground-system) |
@@ -289,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/Natthyx/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1039-find-the-town-judge](https://github.com/Natthyx/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1272-invalid-transactions](https://github.com/Natthyx/Competitive-Programming/tree/master/1272-invalid-transactions) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Natthyx/Competitive-Programming/tree/master/1464-reduce-array-size-to-the-half) |
 | [1512-design-underground-system](https://github.com/Natthyx/Competitive-Programming/tree/master/1512-design-underground-system) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Natthyx/Competitive-Programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
