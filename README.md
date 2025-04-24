@@ -379,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Natthyx/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Natthyx/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/Natthyx/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Natthyx/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Natthyx/Competitive-Programming/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -504,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Natthyx/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Natthyx/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/Natthyx/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Natthyx/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Natthyx/Competitive-Programming/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/Natthyx/Competitive-Programming/tree/master/0945-snakes-and-ladders) |
@@ -561,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Natthyx/Competitive-Programming/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Natthyx/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/Natthyx/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Natthyx/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Natthyx/Competitive-Programming/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/Natthyx/Competitive-Programming/tree/master/1039-find-the-town-judge) |
@@ -578,4 +581,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Natthyx/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
