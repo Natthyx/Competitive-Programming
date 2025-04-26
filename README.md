@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-design-browser-history](https://github.com/Natthyx/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Natthyx/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1720-crawler-log-folder](https://github.com/Natthyx/Competitive-Programming/tree/master/1720-crawler-log-folder) |
+| [1775-design-an-ordered-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/1775-design-an-ordered-stream) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Natthyx/Competitive-Programming/tree/master/1783-ways-to-make-a-fair-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Natthyx/Competitive-Programming/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Natthyx/Competitive-Programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/Natthyx/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1512-design-underground-system](https://github.com/Natthyx/Competitive-Programming/tree/master/1512-design-underground-system) |
 | [1582-design-browser-history](https://github.com/Natthyx/Competitive-Programming/tree/master/1582-design-browser-history) |
+| [1775-design-an-ordered-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/1775-design-an-ordered-stream) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Divide and Conquer
 |  |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1272-invalid-transactions](https://github.com/Natthyx/Competitive-Programming/tree/master/1272-invalid-transactions) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Natthyx/Competitive-Programming/tree/master/1464-reduce-array-size-to-the-half) |
 | [1512-design-underground-system](https://github.com/Natthyx/Competitive-Programming/tree/master/1512-design-underground-system) |
+| [1775-design-an-ordered-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/1775-design-an-ordered-stream) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Natthyx/Competitive-Programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1873-longest-nice-substring](https://github.com/Natthyx/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
@@ -331,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0969-number-of-recent-calls](https://github.com/Natthyx/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Natthyx/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/Natthyx/Competitive-Programming/tree/master/1582-design-browser-history) |
+| [1775-design-an-ordered-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/1775-design-an-ordered-stream) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Stack
 |  |
