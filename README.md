@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/Natthyx/Competitive-Programming/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Natthyx/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Natthyx/Competitive-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Natthyx/Competitive-Programming/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Natthyx/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/Natthyx/Competitive-Programming/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0268-missing-number) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Natthyx/Competitive-Programming/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Natthyx/Competitive-Programming/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Natthyx/Competitive-Programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Natthyx/Competitive-Programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Natthyx/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Natthyx/Competitive-Programming/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Natthyx/Competitive-Programming/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [1873-longest-nice-substring](https://github.com/Natthyx/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 ## Dynamic Programming
@@ -289,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Natthyx/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Natthyx/Competitive-Programming/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/Natthyx/Competitive-Programming/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Natthyx/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
@@ -422,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Natthyx/Competitive-Programming/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Natthyx/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
