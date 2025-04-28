@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/Natthyx/Competitive-Programming/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Natthyx/Competitive-Programming/tree/master/0134-gas-station) |
+| [0140-word-break-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Natthyx/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Natthyx/Competitive-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Natthyx/Competitive-Programming/tree/master/0169-majority-element) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/Natthyx/Competitive-Programming/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Natthyx/Competitive-Programming/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Natthyx/Competitive-Programming/tree/master/0093-restore-ip-addresses) |
+| [0140-word-break-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0306-additive-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0306-additive-number) |
 | [0394-decode-string](https://github.com/Natthyx/Competitive-Programming/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Natthyx/Competitive-Programming/tree/master/0399-evaluate-division) |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Natthyx/Competitive-Programming/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Natthyx/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0140-word-break-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0486-predict-the-winner](https://github.com/Natthyx/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Natthyx/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/Natthyx/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
@@ -289,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Natthyx/Competitive-Programming/tree/master/0001-two-sum) |
+| [0140-word-break-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Natthyx/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Natthyx/Competitive-Programming/tree/master/0146-lru-cache) |
@@ -543,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Natthyx/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Natthyx/Competitive-Programming/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Natthyx/Competitive-Programming/tree/master/0093-restore-ip-addresses) |
+| [0140-word-break-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0306-additive-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0306-additive-number) |
 | [0813-all-paths-from-source-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Natthyx/Competitive-Programming/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -604,4 +609,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-loud-and-rich](https://github.com/Natthyx/Competitive-Programming/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Natthyx/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2176-parallel-courses-iii](https://github.com/Natthyx/Competitive-Programming/tree/master/2176-parallel-courses-iii) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
