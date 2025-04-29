@@ -402,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Natthyx/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Natthyx/Competitive-Programming/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1558-course-schedule-iv](https://github.com/Natthyx/Competitive-Programming/tree/master/1558-course-schedule-iv) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Natthyx/Competitive-Programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Natthyx/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Natthyx/Competitive-Programming/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -532,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/Natthyx/Competitive-Programming/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Natthyx/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Natthyx/Competitive-Programming/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1558-course-schedule-iv](https://github.com/Natthyx/Competitive-Programming/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Natthyx/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Natthyx/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Natthyx/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
@@ -590,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0922-possible-bipartition](https://github.com/Natthyx/Competitive-Programming/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/Natthyx/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Natthyx/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1558-course-schedule-iv](https://github.com/Natthyx/Competitive-Programming/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Natthyx/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2176-parallel-courses-iii](https://github.com/Natthyx/Competitive-Programming/tree/master/2176-parallel-courses-iii) |
 | [3189-find-champion-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/3189-find-champion-ii) |
@@ -608,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/Natthyx/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/Natthyx/Competitive-Programming/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Natthyx/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1558-course-schedule-iv](https://github.com/Natthyx/Competitive-Programming/tree/master/1558-course-schedule-iv) |
 | [2176-parallel-courses-iii](https://github.com/Natthyx/Competitive-Programming/tree/master/2176-parallel-courses-iii) |
 ## Trie
 |  |
