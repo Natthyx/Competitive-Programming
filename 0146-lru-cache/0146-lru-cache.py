@@ -1,103 +1,62 @@
-class ListNode:
-    def __init__(self,key, val,prev=None,nxt=None):
-        self.key = key
+class Node:
+    def __init__(self, val , key, next=None , prev=None):
         self.val = val
+        self.key = key
         self.prev = prev
-        self.next = nxt
+        self.next = next
 
 class LRUCache:
+
     def __init__(self, capacity: int):
-        self.head = None
-        self.tail = None
-        self.cache = {}
-        self.length = 0
         self.capacity = capacity
-        
-    def ptrmoving(self, node):
-        node.next.prev = node.prev
-        node.prev.next = node.next
-        node.next = self.head
-        self.head.prev = node
-        node.prev = None
-        self.head = node
+        self.cache = {} # map the key -> pointer of the node
+
+        self.left = Node(0,0)
+        self.right = Node(0,0)
+
+        #make left and right connected
+        self.left.next = self.right
+        self.right.prev = self.left
+
+    def remove(self, node):
+        nxt = node.next
+        prev = node.prev
+
+        prev.next = nxt
+        nxt.prev = prev
+
+    def insert(self,node):
+        prev = self.right.prev
+        nxt = self.right
+
+        node.prev = prev
+        prev.next = node
+        node.next = nxt
+        nxt.prev = node
         
 
     def get(self, key: int) -> int:
-        if key not in self.cache:
-            return -1
+        # check if key is in cache
+        if key in self.cache:
+            self.remove(self.cache[key])
+            self.insert(self.cache[key])
+            return self.cache[key].val
         else:
-            node = self.cache[key]
-            if node != self.head and node != self.tail:
-                self.ptrmoving(node)
-            elif node == self.tail and node != self.head:
-                self.tail = self.tail.prev
+            return -1
 
-                node.next = self.head
-                self.head.prev = node
-
-                self.head = self.head.prev
-
-                node.prev = None
-                self.tail.next = None
-
-            return node.val
-
-        
 
     def put(self, key: int, value: int) -> None:
+        # check if key in cache
         if key in self.cache:
-            self.cache[key].val = value
-            self.get(key)
-            return 
-        if not self.head and not self.tail:
-            newnode = ListNode(key, value)
+            self.remove(self.cache[key])
+        self.cache[key] = Node(value,key)
+        self.insert(self.cache[key])
 
-            self.head = newnode
-            self.tail = newnode
-
-            self.cache[key] = newnode
-            self.length+=1
-            return
-
-
-        if self.length < self.capacity:
-            newnode = ListNode(key, value)
-            newnode.next = self.head
-
-            self.head.prev = newnode
-            self.head = self.head.prev
-
-            self.cache[key] = newnode
-            self.length+=1
-
-        else:
-            newnode = ListNode(key, value)
-            if self.head == self.tail:
-                del self.cache[self.head.key]
-                self.head = newnode
-                self.tail = newnode
-            else:
-                temp = self.tail
-
-                self.tail = self.tail.prev
-              
-                temp.prev = None
-                self.tail.next = None
-
-                newnode.next = self.head
-                self.head.prev = newnode
-                self.head = self.head.prev
-                del self.cache[temp.key]
-
-            self.cache[key] = newnode
-
-
-            
-
-
-
-
-
+        # check if the capacity is full
+        if len(self.cache) > self.capacity:
+            lru = self.left.next
+            self.remove(lru)
+            del self.cache[lru.key]
         
 
 
