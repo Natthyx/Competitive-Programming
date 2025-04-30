@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/Natthyx/Competitive-Programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Natthyx/Competitive-Programming/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Natthyx/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/Natthyx/Competitive-Programming/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/Natthyx/Competitive-Programming/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/Natthyx/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1184-car-pooling](https://github.com/Natthyx/Competitive-Programming/tree/master/1184-car-pooling) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Natthyx/Competitive-Programming/tree/master/1464-reduce-array-size-to-the-half) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Natthyx/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -342,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/Natthyx/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Natthyx/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/Natthyx/Competitive-Programming/tree/master/1582-design-browser-history) |
@@ -484,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0690-employee-importance](https://github.com/Natthyx/Competitive-Programming/tree/master/0690-employee-importance) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Natthyx/Competitive-Programming/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Natthyx/Competitive-Programming/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -502,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Natthyx/Competitive-Programming/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Game Theory
@@ -546,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Backtracking
 |  |
 | ------- |
