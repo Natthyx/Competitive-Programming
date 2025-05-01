@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-design-underground-system](https://github.com/Natthyx/Competitive-Programming/tree/master/1512-design-underground-system) |
 | [1582-design-browser-history](https://github.com/Natthyx/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1775-design-an-ordered-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/1775-design-an-ordered-stream) |
+| [1955-seat-reservation-manager](https://github.com/Natthyx/Competitive-Programming/tree/master/1955-seat-reservation-manager) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Divide and Conquer
 |  |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1184-car-pooling](https://github.com/Natthyx/Competitive-Programming/tree/master/1184-car-pooling) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Natthyx/Competitive-Programming/tree/master/1464-reduce-array-size-to-the-half) |
+| [1955-seat-reservation-manager](https://github.com/Natthyx/Competitive-Programming/tree/master/1955-seat-reservation-manager) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Natthyx/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Simulation
 |  |
