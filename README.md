@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Natthyx/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/Natthyx/Competitive-Programming/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Natthyx/Competitive-Programming/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Natthyx/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Natthyx/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Natthyx/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0859-design-circular-deque](https://github.com/Natthyx/Competitive-Programming/tree/master/0859-design-circular-deque) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/Natthyx/Competitive-Programming/tree/master/0475-heaters) |
 | [0645-set-mismatch](https://github.com/Natthyx/Competitive-Programming/tree/master/0645-set-mismatch) |
+| [0721-accounts-merge](https://github.com/Natthyx/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Natthyx/Competitive-Programming/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/Natthyx/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0306-additive-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0306-additive-number) |
 | [0394-decode-string](https://github.com/Natthyx/Competitive-Programming/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Natthyx/Competitive-Programming/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/Natthyx/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0874-backspace-string-compare](https://github.com/Natthyx/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Natthyx/Competitive-Programming/tree/master/0886-score-of-parentheses) |
 | [1272-invalid-transactions](https://github.com/Natthyx/Competitive-Programming/tree/master/1272-invalid-transactions) |
@@ -309,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/Natthyx/Competitive-Programming/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/Natthyx/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/Natthyx/Competitive-Programming/tree/master/0690-employee-importance) |
+| [0721-accounts-merge](https://github.com/Natthyx/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0966-binary-subarrays-with-sum](https://github.com/Natthyx/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/Natthyx/Competitive-Programming/tree/master/1039-find-the-town-judge) |
@@ -401,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/Natthyx/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Natthyx/Competitive-Programming/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Natthyx/Competitive-Programming/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Natthyx/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Natthyx/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Natthyx/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
@@ -534,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/Natthyx/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Natthyx/Competitive-Programming/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Natthyx/Competitive-Programming/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Natthyx/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Natthyx/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Natthyx/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
@@ -589,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Natthyx/Competitive-Programming/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Natthyx/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Natthyx/Competitive-Programming/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Natthyx/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Natthyx/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/Natthyx/Competitive-Programming/tree/master/0922-possible-bipartition) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Natthyx/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
