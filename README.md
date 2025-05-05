@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Natthyx/Competitive-Programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1876-map-of-highest-peak](https://github.com/Natthyx/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Natthyx/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1962-single-threaded-cpu](https://github.com/Natthyx/Competitive-Programming/tree/master/1962-single-threaded-cpu) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Natthyx/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Natthyx/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2176-parallel-courses-iii](https://github.com/Natthyx/Competitive-Programming/tree/master/2176-parallel-courses-iii) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1272-invalid-transactions](https://github.com/Natthyx/Competitive-Programming/tree/master/1272-invalid-transactions) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Natthyx/Competitive-Programming/tree/master/1464-reduce-array-size-to-the-half) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Natthyx/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1962-single-threaded-cpu](https://github.com/Natthyx/Competitive-Programming/tree/master/1962-single-threaded-cpu) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Natthyx/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Prefix Sum
 |  |
@@ -342,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/Natthyx/Competitive-Programming/tree/master/1184-car-pooling) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Natthyx/Competitive-Programming/tree/master/1464-reduce-array-size-to-the-half) |
 | [1955-seat-reservation-manager](https://github.com/Natthyx/Competitive-Programming/tree/master/1955-seat-reservation-manager) |
+| [1962-single-threaded-cpu](https://github.com/Natthyx/Competitive-Programming/tree/master/1962-single-threaded-cpu) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Natthyx/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Simulation
 |  |
