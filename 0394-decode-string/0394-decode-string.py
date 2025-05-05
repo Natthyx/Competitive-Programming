@@ -1,28 +1,31 @@
 class Solution:
     def decodeString(self, s: str) -> str:
-        num_set = set(map(str, range(0, 301)))
-        stack = []
-        for i in range(len(s)-1,-1,-1):
-            if s[i] == "[":
-                j = i-1
-                a = ""
-                if s[j] not in num_set:
-                    a = "1"
+        def helper(ind):
+            res = ''
+            num = 0
+
+            while ind < len(s):
+                char = s[ind]
+
+                # first if it is [
+                if char == '[':
+                    decoded , ind = helper(ind+1)
+                    res += decoded*num
+                    num = 0
+                
+                # second if it is ]
+                elif char == ']':
+                    return res , ind
+                
+                # third if it is digit
+                elif char.isdigit():
+                    num = num * 10 + int(char)
+
+                #if it is character
                 else:
-                    while j > -1 and s[j] in num_set:
-                        a = s[j] + a
-                        j-=1
+                    res+=char
+                ind+=1
+            return res , ind
 
-                a = int(a)  
-                ch = ''
-                while stack and stack[-1] != "]":
-                    ch +=stack.pop()
-                stack.pop()
-                stack.append(a*ch)
-
-            elif s[i] in num_set:
-                continue
-            else:
-                stack.append(s[i])
-        
-        return "".join(stack[::-1])
+        decoded , ind = helper(0)
+        return decoded
