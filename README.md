@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/Natthyx/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Natthyx/Competitive-Programming/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/Natthyx/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Natthyx/Competitive-Programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Natthyx/Competitive-Programming/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Natthyx/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1095-two-city-scheduling](https://github.com/Natthyx/Competitive-Programming/tree/master/1095-two-city-scheduling) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Natthyx/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0874-backspace-string-compare](https://github.com/Natthyx/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Natthyx/Competitive-Programming/tree/master/0886-score-of-parentheses) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Natthyx/Competitive-Programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [1272-invalid-transactions](https://github.com/Natthyx/Competitive-Programming/tree/master/1272-invalid-transactions) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Natthyx/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -609,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Natthyx/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Natthyx/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/Natthyx/Competitive-Programming/tree/master/0922-possible-bipartition) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Natthyx/Competitive-Programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Natthyx/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
@@ -623,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0871-keys-and-rooms](https://github.com/Natthyx/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/Natthyx/Competitive-Programming/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/Natthyx/Competitive-Programming/tree/master/0922-possible-bipartition) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Natthyx/Competitive-Programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Natthyx/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Natthyx/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/Natthyx/Competitive-Programming/tree/master/1558-course-schedule-iv) |
