@@ -54,6 +54,7 @@ class Solution:
             
             if union(x,y):
                 ans+=w
+                edge+=1
     
         return ans
 
