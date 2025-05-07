@@ -1,8 +1,6 @@
 class Solution:
     def equationsPossible(self, equations: List[str]) -> bool:
         parent = {i:i for i in range(26)}
-
-        size = [1] * (26)
         
         def find(x):
             if parent[x] != x:
@@ -14,19 +12,9 @@ class Solution:
             findx = find(x)
             findy = find(y)
 
-            if findx == findy:
-                return False
-            
-            if size[findx] > size[findy]:
+            if findx != findy:
                 parent[findy] = findx
-                size[findx] += size[findy]
-
-            else:
-                parent[findx] = findy
-                size[findy] += size[findx]
             
-            return True
-
         
         for ch1 , op1 , op2, ch2 in equations:
             a = ord(ch1) - ord("a")
@@ -39,9 +27,6 @@ class Solution:
             b = ord(ch2) - ord("a")
             if op1 == "!":
                 if find(a) == find(b):
-                    return False
-                
+                    return False      
 
         return True
-
-
