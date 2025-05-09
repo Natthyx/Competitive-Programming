@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2465-shifting-letters-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Natthyx/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3643-zero-array-transformation-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/3643-zero-array-transformation-ii) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2456-construct-smallest-number-from-di-string](https://github.com/Natthyx/Competitive-Programming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Natthyx/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3055-maximum-odd-binary-number](https://github.com/Natthyx/Competitive-Programming/tree/master/3055-maximum-odd-binary-number) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Natthyx/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1962-single-threaded-cpu](https://github.com/Natthyx/Competitive-Programming/tree/master/1962-single-threaded-cpu) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Natthyx/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -353,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1955-seat-reservation-manager](https://github.com/Natthyx/Competitive-Programming/tree/master/1955-seat-reservation-manager) |
 | [1962-single-threaded-cpu](https://github.com/Natthyx/Competitive-Programming/tree/master/1962-single-threaded-cpu) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Natthyx/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -453,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1876-map-of-highest-peak](https://github.com/Natthyx/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Natthyx/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Doubly-Linked List
 |  |
 | ------- |
