@@ -502,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Natthyx/Competitive-Programming/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Natthyx/Competitive-Programming/tree/master/0342-power-of-four) |
+| [0461-hamming-distance](https://github.com/Natthyx/Competitive-Programming/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Natthyx/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [1873-longest-nice-substring](https://github.com/Natthyx/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Natthyx/Competitive-Programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
