@@ -1,17 +1,14 @@
 class Solution:
     def countBits(self, n: int) -> List[int]:
         def binaryRepr(n):
-            binary = []
+            count = 0
             
             while n != 0:
                 if n % 2:
-                    binary.append("1")
-                else:
-                    binary.append("0")
-                
+                    count+=1
                 n//=2
             
-            return binary.count("1")
+            return count
         
         ans = []
         for i in range(n+1):
