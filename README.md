@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Natthyx/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0140-word-break-ii) |
+| [0338-counting-bits](https://github.com/Natthyx/Competitive-Programming/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Natthyx/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Natthyx/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/Natthyx/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
@@ -499,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0231-power-of-two](https://github.com/Natthyx/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Natthyx/Competitive-Programming/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Natthyx/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Natthyx/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [1873-longest-nice-substring](https://github.com/Natthyx/Competitive-Programming/tree/master/1873-longest-nice-substring) |
