@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2465-shifting-letters-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Natthyx/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2621-find-xor-beauty-of-array](https://github.com/Natthyx/Competitive-Programming/tree/master/2621-find-xor-beauty-of-array) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/3643-zero-array-transformation-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Binary Search
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1955-seat-reservation-manager](https://github.com/Natthyx/Competitive-Programming/tree/master/1955-seat-reservation-manager) |
 | [1962-single-threaded-cpu](https://github.com/Natthyx/Competitive-Programming/tree/master/1962-single-threaded-cpu) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Natthyx/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Simulation
 |  |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/Natthyx/Competitive-Programming/tree/master/1184-car-pooling) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Natthyx/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Natthyx/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Data Stream
 |  |
 | ------- |
