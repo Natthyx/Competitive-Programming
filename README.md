@@ -426,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Natthyx/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0310-minimum-height-trees](https://github.com/Natthyx/Competitive-Programming/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Natthyx/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Natthyx/Competitive-Programming/tree/master/0463-island-perimeter) |
 | [0529-minesweeper](https://github.com/Natthyx/Competitive-Programming/tree/master/0529-minesweeper) |
@@ -565,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Natthyx/Competitive-Programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Natthyx/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Natthyx/Competitive-Programming/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Natthyx/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Natthyx/Competitive-Programming/tree/master/0463-island-perimeter) |
 | [0529-minesweeper](https://github.com/Natthyx/Competitive-Programming/tree/master/0529-minesweeper) |
@@ -640,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Natthyx/Competitive-Programming/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Natthyx/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Natthyx/Competitive-Programming/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Natthyx/Competitive-Programming/tree/master/0684-redundant-connection) |
@@ -669,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Natthyx/Competitive-Programming/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/Natthyx/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/Natthyx/Competitive-Programming/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Natthyx/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
