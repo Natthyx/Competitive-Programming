@@ -17,8 +17,6 @@ class Solution:
                 return True
             else:
                 return False
-
-        
         while l <= r:
             mid = (l+r)//2
 
