@@ -1,19 +1,28 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        stack = []
-        dicts = { "(":")", "[":"]","{":"}"}
+        brace = {
+            "}":"{",
+            "]":"[",
+            ")":"("}
 
-        for brace in s:
-            if brace in dicts:
-                stack.append(brace)
-            else:
+        stack = []
+
+        for i in s:
+            if i not in brace:
+                stack.append(i)
+
+            elif i in brace:
                 if not stack:
                     return False
-
-                a = stack.pop()
-                if brace != dicts[a]:
+                elif stack and stack[-1] == brace[i]:
+                    stack.pop()
+                elif stack and stack[-1] != brace[i]:
                     return False
-        return stack == []
+                
+        if stack:
+            return False
+        else:
+            return True
 
-        
+
         
