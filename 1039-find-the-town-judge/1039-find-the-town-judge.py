@@ -11,8 +11,5 @@ class Solution:
         for person in range(1,n+1):
             if ind[person] == n-1 and out[person]==0:
                 return person
+        
         return -1
-
-        
-
-        
