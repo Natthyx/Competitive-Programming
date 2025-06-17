@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-reduce-array-size-to-the-half](https://github.com/Natthyx/Competitive-Programming/tree/master/1464-reduce-array-size-to-the-half) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Natthyx/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1962-single-threaded-cpu](https://github.com/Natthyx/Competitive-Programming/tree/master/1962-single-threaded-cpu) |
+| [1970-sorting-the-sentence](https://github.com/Natthyx/Competitive-Programming/tree/master/1970-sorting-the-sentence) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Natthyx/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Prefix Sum
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/Natthyx/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [1873-longest-nice-substring](https://github.com/Natthyx/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/Natthyx/Competitive-Programming/tree/master/1894-merge-strings-alternately) |
+| [1970-sorting-the-sentence](https://github.com/Natthyx/Competitive-Programming/tree/master/1970-sorting-the-sentence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Natthyx/Competitive-Programming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [3055-maximum-odd-binary-number](https://github.com/Natthyx/Competitive-Programming/tree/master/3055-maximum-odd-binary-number) |
