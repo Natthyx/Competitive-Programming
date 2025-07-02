@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Natthyx/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Natthyx/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2176-parallel-courses-iii](https://github.com/Natthyx/Competitive-Programming/tree/master/2176-parallel-courses-iii) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Natthyx/Competitive-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2465-shifting-letters-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Natthyx/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2621-find-xor-beauty-of-array](https://github.com/Natthyx/Competitive-Programming/tree/master/2621-find-xor-beauty-of-array) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1341-split-a-string-in-balanced-strings](https://github.com/Natthyx/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Natthyx/Competitive-Programming/tree/master/1464-reduce-array-size-to-the-half) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Natthyx/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Natthyx/Competitive-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Natthyx/Competitive-Programming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Natthyx/Competitive-Programming/tree/master/2509-minimize-xor) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Natthyx/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Natthyx/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1962-single-threaded-cpu](https://github.com/Natthyx/Competitive-Programming/tree/master/1962-single-threaded-cpu) |
 | [1970-sorting-the-sentence](https://github.com/Natthyx/Competitive-Programming/tree/master/1970-sorting-the-sentence) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Natthyx/Competitive-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Natthyx/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Prefix Sum
@@ -356,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Natthyx/Competitive-Programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1873-longest-nice-substring](https://github.com/Natthyx/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Natthyx/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Natthyx/Competitive-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Sliding Window
 |  |
@@ -375,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1955-seat-reservation-manager](https://github.com/Natthyx/Competitive-Programming/tree/master/1955-seat-reservation-manager) |
 | [1962-single-threaded-cpu](https://github.com/Natthyx/Competitive-Programming/tree/master/1962-single-threaded-cpu) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Natthyx/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Natthyx/Competitive-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Simulation
@@ -385,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/Natthyx/Competitive-Programming/tree/master/1184-car-pooling) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Natthyx/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Natthyx/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Natthyx/Competitive-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Data Stream
 |  |
