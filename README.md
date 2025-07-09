@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Natthyx/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Natthyx/Competitive-Programming/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Natthyx/Competitive-Programming/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Natthyx/Competitive-Programming/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Natthyx/Competitive-Programming/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Natthyx/Competitive-Programming/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0140-word-break-ii) |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Natthyx/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Natthyx/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Natthyx/Competitive-Programming/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/Natthyx/Competitive-Programming/tree/master/0072-edit-distance) |
 | [0119-pascals-triangle-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Natthyx/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0140-word-break-ii) |
