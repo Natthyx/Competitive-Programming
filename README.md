@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1775-design-an-ordered-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/1775-design-an-ordered-stream) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Natthyx/Competitive-Programming/tree/master/1783-ways-to-make-a-fair-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Natthyx/Competitive-Programming/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1848-sum-of-unique-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Natthyx/Competitive-Programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Natthyx/Competitive-Programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1876-map-of-highest-peak](https://github.com/Natthyx/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-reduce-array-size-to-the-half](https://github.com/Natthyx/Competitive-Programming/tree/master/1464-reduce-array-size-to-the-half) |
 | [1512-design-underground-system](https://github.com/Natthyx/Competitive-Programming/tree/master/1512-design-underground-system) |
 | [1775-design-an-ordered-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/1775-design-an-ordered-stream) |
+| [1848-sum-of-unique-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/1848-sum-of-unique-elements) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Natthyx/Competitive-Programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1873-longest-nice-substring](https://github.com/Natthyx/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Natthyx/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -508,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Natthyx/Competitive-Programming/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Natthyx/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1848-sum-of-unique-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/1848-sum-of-unique-elements) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Natthyx/Competitive-Programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack
 |  |
