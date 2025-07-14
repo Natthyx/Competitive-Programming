@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0456-132-pattern](https://github.com/Natthyx/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Natthyx/Competitive-Programming/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/Natthyx/Competitive-Programming/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/Natthyx/Competitive-Programming/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/Natthyx/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Natthyx/Competitive-Programming/tree/master/0496-next-greater-element-i) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0306-additive-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0306-additive-number) |
 | [0394-decode-string](https://github.com/Natthyx/Competitive-Programming/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Natthyx/Competitive-Programming/tree/master/0399-evaluate-division) |
+| [0472-concatenated-words](https://github.com/Natthyx/Competitive-Programming/tree/master/0472-concatenated-words) |
 | [0721-accounts-merge](https://github.com/Natthyx/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0874-backspace-string-compare](https://github.com/Natthyx/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Natthyx/Competitive-Programming/tree/master/0886-score-of-parentheses) |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Natthyx/Competitive-Programming/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Natthyx/Competitive-Programming/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Natthyx/Competitive-Programming/tree/master/0338-counting-bits) |
+| [0472-concatenated-words](https://github.com/Natthyx/Competitive-Programming/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Natthyx/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Natthyx/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/Natthyx/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
@@ -459,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0310-minimum-height-trees](https://github.com/Natthyx/Competitive-Programming/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Natthyx/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Natthyx/Competitive-Programming/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/Natthyx/Competitive-Programming/tree/master/0472-concatenated-words) |
 | [0529-minesweeper](https://github.com/Natthyx/Competitive-Programming/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/Natthyx/Competitive-Programming/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Natthyx/Competitive-Programming/tree/master/0684-redundant-connection) |
@@ -716,6 +720,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0140-word-break-ii) |
+| [0472-concatenated-words](https://github.com/Natthyx/Competitive-Programming/tree/master/0472-concatenated-words) |
 ## Memoization
 |  |
 | ------- |
