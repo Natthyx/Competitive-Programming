@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/Natthyx/Competitive-Programming/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Natthyx/Competitive-Programming/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Natthyx/Competitive-Programming/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/Natthyx/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0306-additive-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0306-additive-number) |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/Natthyx/Competitive-Programming/tree/master/0072-edit-distance) |
 | [0119-pascals-triangle-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Natthyx/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Natthyx/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Natthyx/Competitive-Programming/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Natthyx/Competitive-Programming/tree/master/0322-coin-change) |
@@ -649,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Natthyx/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Natthyx/Competitive-Programming/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Natthyx/Competitive-Programming/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/Natthyx/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0306-additive-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0306-additive-number) |
 | [0813-all-paths-from-source-to-target](https://github.com/Natthyx/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
