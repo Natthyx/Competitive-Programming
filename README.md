@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Natthyx/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Natthyx/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Natthyx/Competitive-Programming/tree/master/0399-evaluate-division) |
+| [0416-partition-equal-subset-sum](https://github.com/Natthyx/Competitive-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Natthyx/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Natthyx/Competitive-Programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Natthyx/Competitive-Programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Natthyx/Competitive-Programming/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Natthyx/Competitive-Programming/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Natthyx/Competitive-Programming/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/Natthyx/Competitive-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Natthyx/Competitive-Programming/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Natthyx/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Natthyx/Competitive-Programming/tree/master/0542-01-matrix) |
