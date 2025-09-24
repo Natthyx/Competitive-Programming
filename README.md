@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Natthyx/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/Natthyx/Competitive-Programming/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Natthyx/Competitive-Programming/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Natthyx/Competitive-Programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Natthyx/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Natthyx/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Natthyx/Competitive-Programming/tree/master/0739-daily-temperatures) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Natthyx/Competitive-Programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Natthyx/Competitive-Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Natthyx/Competitive-Programming/tree/master/0605-can-place-flowers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Natthyx/Competitive-Programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/Natthyx/Competitive-Programming/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Natthyx/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/Natthyx/Competitive-Programming/tree/master/1033-broken-calculator) |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0472-concatenated-words](https://github.com/Natthyx/Competitive-Programming/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Natthyx/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Natthyx/Competitive-Programming/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Natthyx/Competitive-Programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0943-sum-of-subarray-minimums](https://github.com/Natthyx/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Natthyx/Competitive-Programming/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Natthyx/Competitive-Programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
