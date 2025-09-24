@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0093-restore-ip-addresses](https://github.com/Natthyx/Competitive-Programming/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Natthyx/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0140-word-break-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Natthyx/Competitive-Programming/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0306-additive-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0306-additive-number) |
 | [0394-decode-string](https://github.com/Natthyx/Competitive-Programming/tree/master/0394-decode-string) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Natthyx/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Natthyx/Competitive-Programming/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Natthyx/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Natthyx/Competitive-Programming/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Natthyx/Competitive-Programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Natthyx/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0268-missing-number) |
@@ -365,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Natthyx/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Natthyx/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Natthyx/Competitive-Programming/tree/master/0146-lru-cache) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Natthyx/Competitive-Programming/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Natthyx/Competitive-Programming/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Natthyx/Competitive-Programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/Natthyx/Competitive-Programming/tree/master/0268-missing-number) |
